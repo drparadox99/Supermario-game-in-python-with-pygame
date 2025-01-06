@@ -22,7 +22,7 @@ Original Soundtrack and Sound Effects: Immerse yourself in the game with a custo
 Simple Controls: Move with the arrow keys, jump with the space bar, and interact with the game environment easily.
 
 # Getting Started 
----
+
 **Environment Requirements**
 
 Installation with Conda environment : 
