@@ -1,4 +1,4 @@
-# SuperMarioGame_Python
+# SuperMarioGame in Python
 A simple Super Mario game built with Python and Pygame !
 
 ![Capture d’écran 2025-01-03 à 16 21 48](https://github.com/user-attachments/assets/0922249e-c792-4bfe-9f64-ffab13b89765)
